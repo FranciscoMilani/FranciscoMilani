@@ -4,6 +4,7 @@ I'm Francisco Milani, an aspiring software developer and QA analyst from Caxias 
 
 ## Tech Stack
 
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white})
 ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
 ![image]({https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white})
