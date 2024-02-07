@@ -5,13 +5,13 @@ I'm Francisco Milani, an aspiring software developer and QA analyst from Caxias 
 ## Tech Stack
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white})
-![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
-![image]({https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white})
-![image]({https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white})
-![image]({https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green})
-![image]({https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white})
-![image]({https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white})
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 > — “Find your passion, learn how to add value to it, and commit to a lifetime of learning.”
 
