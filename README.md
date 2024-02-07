@@ -13,7 +13,8 @@ I'm Francisco Milani, an aspiring software developer and QA analyst from Caxias 
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-> — “Find your passion, learn how to add value to it, and commit to a lifetime of learning.”
+##
+> “Find your passion, learn how to add value to it, and commit to a lifetime of learning.” — Raymond Kurzweil
 
 <!--
 **FranciscoMilani/FranciscoMilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
