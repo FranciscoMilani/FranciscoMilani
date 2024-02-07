@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Francisco Milani, an aspiring software developer, QA analyst and tech enthusiast from Brazil. I'm currently participating in a Industrial and Technological Development Scholarship program as a QA analyst, managing software testing processes at the Digital Games Quality Assurance Laboratory at the University of Caxias do Sul (UCS Lab QA).
+I'm Francisco Milani, an aspiring tech enthusiast and former game developer, now transitioning into the software development/quality assurance roles. I'm currently participating in a Industrial and Technological Development Scholarship program as a QA analyst, managing software testing processes at the Digital Games Quality Assurance Laboratory at the University of Caxias do Sul (UCS Lab QA).
 
 
 ## Tech Stack
