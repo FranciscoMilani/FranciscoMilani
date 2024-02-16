@@ -18,6 +18,10 @@ I'm Francisco Milani, an aspiring tech enthusiast and former game developer, now
 ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
+## Other Projects
+You can also check out my [itch.io page](https://freimy.itch.io/) for game related projects I developed using Unity/C# during my enrollment in the Digital Games Development course at UCS.
+
+
 ##
 > “Find your passion, learn how to add value to it, and commit to a lifetime of learning.” — Raymond Kurzweil
 
