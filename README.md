@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Francisco Milani, an aspiring tech enthusiast and former game developer, now transitioning into software development field. I was previously participating in a Industrial and Technological Development Scholarship program as a QA analyst, managing software testing processes at the Digital Games Quality Assurance Laboratory at the University of Caxias do Sul (UCS Lab QA). I've recently started my journey as a Full Stack Developer working for Conecta Master Software company.
+I'm Francisco Milani, an aspiring tech enthusiast and former game developer, now transitioning and pursuing a career in the software development field. I was previously participating in a Industrial and Technological Development Scholarship program as a QA analyst, managing software testing processes at the Digital Games Quality Assurance Laboratory at the University of Caxias do Sul (UCS Lab QA). I've recently started my journey as a Full Stack Developer working for Conecta Softwares, set in Caxias do Sul.
 
 ## Tech Stack
 
