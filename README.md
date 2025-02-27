@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Francisco Milani, an aspiring tech enthusiast and former game developer, now pursuing a career in the software development field. I've recently started my journey as a Full Stack Web Developer working for [Conecta Softwares](https://www.conecta.com.br/), set in Caxias do Sul, where I primarily work in the development of ERPs and related systems.
+I'm Francisco Milani, an aspiring tech enthusiast and former game developer, pursuing a career in software development. I've recently started my journey as a Full Stack Web Developer. My first one year of experience is primarely focused on the development of ERP and related systems.
 
 ## 💻 Tech Stack
 
