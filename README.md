@@ -45,6 +45,14 @@ You can also check out my [itch.io page](https://freimy.itch.io/) for game relat
 > “Find your passion, learn how to add value to it, and commit to a lifetime of learning.” — Raymond Kurzweil
 
 
+<!--
+[![Languages](https://skillicons.dev/icons?i=cs,java,js,html,css&theme=light)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=dotnet,spring&theme=light)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vue,jquery,bootstrap&theme=light)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=azure&theme=light)](https://skillicons.dev)
+[![Other Tools](https://skillicons.dev/icons?i=git,postman,obsidian,figma,unity,blender&theme=light)](https://skillicons.dev)
+-->
   
 <!-- 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
